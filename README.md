@@ -26,4 +26,13 @@ Is your solution able to do that?
 
 Think about the problem in stages. Each stage is in its individual folder.
 
-Stage 0: The essentials
+Open each stage after finishing the earlier one.
+If you open all at once, you will spoil the surprise!
+
+Stage 0: The Essentials
+
+Stage 1: Additional Feature
+
+Stage 2: Expanding user-base
+
+Stage 3: Another Feature
