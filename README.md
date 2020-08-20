@@ -3,7 +3,7 @@
 This is the place to explore the design of
 [the pong game](https://engin-boot.github.io/get-started/pong-game.html)
 
-## Development Objective
+## For Development
 
 Decompose the functionality into modules.
 
@@ -15,10 +15,10 @@ Avoid getting into situations where two developers
 need to change the same module -
 even though they are working on different features.
 
-## Extended Development Objective
+## For Extended Development
 
-When a client asks for a new feature, it is desirable
-to add a new module, without having to change existing modules.
+When a client asks for a new feature, we add a new module,
+without having to change existing modules.
 
 Is your solution able to do that?
 
