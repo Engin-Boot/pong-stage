@@ -25,7 +25,7 @@ jobs:
     - name: Check Spelling
       run: |
         npm install -g markdown-spellcheck
-        mdspell --ignore-numbers --ignore-acronyms --report --en-us *.md
+        mdspell --ignore-numbers --ignore-acronyms --report --en-us '**/*.md'
         
     - name: Check goodness of writing
       run: |

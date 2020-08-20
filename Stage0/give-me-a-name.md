@@ -8,10 +8,12 @@ What part of the game does this module deliver?
 
 Module is ok when these criteria are satisfied.
 
-Scenario: -describe-a-scenario-of-this-module
+### Scenario: -describe-a-scenario-of-this-module
 
   Given -give-initial-values-and-conditions
 
-  When event-happens
+  When -event-happens
 
-  Then module-does-this
+  Then -module-does-this
+
+### -add-scenario-if-needed
