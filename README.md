@@ -24,6 +24,6 @@ Is your solution able to do that?
 
 ## Stages
 
-Think about the problem in stages. Once you have filled 
+Think about the problem in stages. Each stage is in its individual subfolder.
 
 Stage 0: The essentials
